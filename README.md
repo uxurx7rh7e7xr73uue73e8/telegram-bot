@@ -1486,15 +1486,15 @@ npx wrangler tail
 
 <div align="center">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="aMirsEdighian" width="420">
+<img src="assets/readme/creator-amirsedighian.svg" alt="NovaTunneli" width="420">
 
-### ساخته و پشتیبانی‌شده توسط **aMirsEdighian**
+### ساخته و پشتیبانی‌شده توسط **aMirsEdighian and Pomp Net**
 
 برای ارتباط، پشتیبانی، سفارش توسعه یا گزارش مشکل، روی لوگوها بزنید:
 
-<a href="https://t.me/developer_as"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @developer_as" height="76"></a>
+<a href="https://t.me/developer_as"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @NovaTunneli" height="76"></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/x.amirrezaa1"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @x.amirrezaa1" height="76"></a>
+<a href="https://instagram.com/NovaTunneli"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @NovaTunneli" height="76"></a>
 
 <a href="README.en.md"><img src="assets/readme/lang-en.svg" alt="Read in English" height="42"></a>
 
