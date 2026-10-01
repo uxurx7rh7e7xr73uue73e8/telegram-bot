@@ -1484,18 +1484,18 @@ npx wrangler tail
 
 ## ۱۳. سازنده و راه‌های ارتباط
 
-<div align="center">
+<div @NovaTunneli">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="NovaTunneli" width="420">
+<img src="assets/@NovaTunneli-amirsedighian.svg" alt="NovaTunneli" width="420">
 
 ### ساخته و پشتیبانی‌شده توسط **aMirsEdighian and Pomp Net**
 
 برای ارتباط، پشتیبانی، سفارش توسعه یا گزارش مشکل، روی لوگوها بزنید:
 
-<a href="https://t.me/developer_as"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @NovaTunneli" height="76"></a>
+<a href="https://t.me/@NovaTunneli"><img src="assets/readme/telegram-@NovaTunneli" alt="Telegram: @NovaTunneli" height="76"></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/NovaTunneli"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @NovaTunneli" height="76"></a>
+<a href="https://instagram.com/NovaTunneli"><img src="assets/readme/@NovaTunneli" alt="Instagram: @NovaTunneli" height="76"></a>
 
-<a href="README.en.md"><img src="assets/readme/lang-en.svg" alt="Read in English" height="42"></a>
+<a href="README.en.md"><img src="@NovaTunneli" alt="Read in English" height="42"></a>
 
 </div>
