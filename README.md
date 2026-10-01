@@ -1,3 +1,5 @@
+کد نویسی شده توسط تیم پمپ نت و تیم اقا امیر 
+
 <div align="center">
 
 <img src="assets/readme/botpanel-logo.svg" alt="BotPanel" width="120">
